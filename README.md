@@ -2,6 +2,8 @@
 
 This project focuses on automated testing of a hotel room booking and management website. The goal is to verify the correctness, performance, and reliability of critical business functions through automated test scripts.
 
+🗓 **Project Duration:** January 2025 – March 2025
+
 ## 🎯 Project Objectives
 
 - Ensure stable operation of key features in the hotel booking system  
